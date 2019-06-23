@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{40BF4276-EEE6-41B9-AE06-551465216B55}|Default">
+  <MonoDevelop.Ide.ItemProperties.E001__HelloWorld FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="E002_Basics/Program.cs">
+    <Files>
+      <File FileName="E002_Basics/Program.cs" Line="85" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="csharp" expanded="True">
+            <Node name="E002_Basics" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.E002__Basics PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

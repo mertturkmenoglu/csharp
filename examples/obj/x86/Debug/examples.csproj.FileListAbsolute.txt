@@ -1,6 +1,0 @@
-/home/mert/codes/csharp/examples/bin/Debug/examples.exe
-/home/mert/codes/csharp/examples/bin/Debug/examples.pdb
-/home/mert/codes/csharp/examples/obj/x86/Debug/examples.csprojAssemblyReference.cache
-/home/mert/codes/csharp/examples/obj/x86/Debug/examples.csproj.CoreCompileInputs.cache
-/home/mert/codes/csharp/examples/obj/x86/Debug/examples.exe
-/home/mert/codes/csharp/examples/obj/x86/Debug/examples.pdb

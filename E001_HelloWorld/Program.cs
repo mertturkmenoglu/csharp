@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace examples
+namespace E001_HelloWorld
 {
     class MainClass
     {
