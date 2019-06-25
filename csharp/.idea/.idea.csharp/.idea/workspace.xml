@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../E001_HelloWorld/.vs/csharp/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../E001_HelloWorld/.vs/csharp/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/csharp.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,28 +14,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/E001_HelloWorld/Program.cs">
+        <entry file="file://$PROJECT_DIR$/E002_Basics/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="30">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
               <folding>
-                <marker date="1561490100452" expanded="true" signature="25:188" ph="{...}" />
-                <marker date="1561490100452" expanded="true" signature="54:186" ph="{...}" />
-                <marker date="1561490100452" expanded="true" signature="107:180" ph="{...}" />
+                <marker date="1561490238257" expanded="true" signature="21:2792" ph="{...}" />
+                <marker date="1561490238257" expanded="true" signature="50:2790" ph="{...}" />
+                <marker date="1561490238257" expanded="true" signature="90:2784" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/E002_Basics/Program.cs">
+        <entry file="file://$PROJECT_DIR$/E003_UserInput/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            <state relative-caret-position="448">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
-                <marker date="1561490161665" expanded="true" signature="21:2841" ph="{...}" />
-                <marker date="1561490161665" expanded="true" signature="50:2839" ph="{...}" />
-                <marker date="1561490161665" expanded="true" signature="103:2833" ph="{...}" />
+                <marker date="1561492992666" expanded="true" signature="39:517" ph="{...}" />
+                <marker date="1561492992666" expanded="true" signature="75:515" ph="{...}" />
+                <marker date="1561492992666" expanded="true" signature="115:509" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,6 +48,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/E002_Basics/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E003_UserInput/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E001_HelloWorld/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -54,6 +56,7 @@
       <list>
         <option value="$PROJECT_DIR$/E001_HelloWorld/Program.cs" />
         <option value="$PROJECT_DIR$/E002_Basics/Program.cs" />
+        <option value="$PROJECT_DIR$/E003_UserInput/Program.cs" />
       </list>
     </option>
   </component>
@@ -68,6 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -80,7 +84,6 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -88,6 +91,9 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -104,7 +110,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.E001_HelloWorld">
+  <component name="RunManager" selected=".NET Static Method.E003_UserInput.Program.Main">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -141,8 +147,25 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E003_UserInput.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E003_UserInput/E003_UserInput.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E003_UserInput.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Static Method.E003_UserInput.Program.Main" />
         <item itemvalue=".NET Project.E001_HelloWorld" />
       </list>
     </recent_temporary>
@@ -158,12 +181,13 @@
       <option name="presentableId" value="Default" />
       <updated>1561489917676</updated>
       <workItem from="1561489918825" duration="59000" />
-      <workItem from="1561490034964" duration="126000" />
+      <workItem from="1561490034964" duration="1006000" />
+      <workItem from="1561491322715" duration="1845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185000" />
+    <option name="totallyTimeSpent" value="2910000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,13 +202,12 @@
     <frame x="0" y="26" width="1920" height="1013" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.3295838" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295838" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295838" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -197,6 +220,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3295838" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -223,7 +247,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/E001_HelloWorld/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
+        <state relative-caret-position="135">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <marker date="1561490100452" expanded="true" signature="25:188" ph="{...}" />
@@ -235,12 +259,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/E002_Basics/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
           <folding>
-            <marker date="1561490161665" expanded="true" signature="21:2841" ph="{...}" />
-            <marker date="1561490161665" expanded="true" signature="50:2839" ph="{...}" />
-            <marker date="1561490161665" expanded="true" signature="103:2833" ph="{...}" />
+            <marker date="1561490238257" expanded="true" signature="21:2792" ph="{...}" />
+            <marker date="1561490238257" expanded="true" signature="50:2790" ph="{...}" />
+            <marker date="1561490238257" expanded="true" signature="90:2784" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E003_UserInput/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1561492992666" expanded="true" signature="39:517" ph="{...}" />
+            <marker date="1561492992666" expanded="true" signature="75:515" ph="{...}" />
+            <marker date="1561492992666" expanded="true" signature="115:509" ph="{...}" />
           </folding>
         </state>
       </provider>

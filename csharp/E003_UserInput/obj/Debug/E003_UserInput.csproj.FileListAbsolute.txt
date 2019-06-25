@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E003_UserInput/bin/Debug/E003_UserInput.exe
+/home/mert/codes/csharp/csharp/E003_UserInput/bin/Debug/E003_UserInput.pdb
+/home/mert/codes/csharp/csharp/E003_UserInput/obj/Debug/E003_UserInput.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E003_UserInput/obj/Debug/E003_UserInput.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E003_UserInput/obj/Debug/E003_UserInput.exe
+/home/mert/codes/csharp/csharp/E003_UserInput/obj/Debug/E003_UserInput.pdb
