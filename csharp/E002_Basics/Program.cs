@@ -1,8 +1,8 @@
 ﻿namespace E002_Basics
 {
-    class MainClass
+    internal class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             int a = 3;
             int b = 5;
@@ -60,25 +60,24 @@
             System.Console.WriteLine(two_byte_char);
             System.Console.WriteLine(two_byte_char.GetType());
 
-            bool boolean_value = true;
+            const bool booleanValue = true;
 
-            System.Console.WriteLine(boolean_value);
-            System.Console.WriteLine(boolean_value.GetType());
+            System.Console.WriteLine(booleanValue);
+            System.Console.WriteLine(booleanValue.GetType());
 
-            string my_str = "Emily";
-            my_str += " loves";
-            my_str += " me.";
+            var myStr = "Emily";
+            myStr += " loves";
+            myStr += " me.";
 
-            System.Console.WriteLine(my_str);
-            System.Console.WriteLine(my_str.GetType());
+            System.Console.WriteLine(myStr);
+            System.Console.WriteLine(myStr.GetType());
 
-            object generic_obj;
-            generic_obj = 10;
-            System.Console.WriteLine(generic_obj);
-            System.Console.WriteLine(generic_obj.GetType());
-            generic_obj = true;
-            System.Console.WriteLine(generic_obj);
-            System.Console.WriteLine(generic_obj.GetType());
+            object genericObj = 10;
+            System.Console.WriteLine(genericObj);
+            System.Console.WriteLine(genericObj.GetType());
+            genericObj = true;
+            System.Console.WriteLine(genericObj);
+            System.Console.WriteLine(genericObj.GetType());
         }
     }
 }

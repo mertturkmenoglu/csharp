@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E001_HelloWorld/bin/Debug/E001_HelloWorld.exe
+/home/mert/codes/csharp/csharp/E001_HelloWorld/bin/Debug/E001_HelloWorld.pdb
+/home/mert/codes/csharp/csharp/E001_HelloWorld/obj/Debug/E001_HelloWorld.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E001_HelloWorld/obj/Debug/E001_HelloWorld.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E001_HelloWorld/obj/Debug/E001_HelloWorld.exe
+/home/mert/codes/csharp/csharp/E001_HelloWorld/obj/Debug/E001_HelloWorld.pdb

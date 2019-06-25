@@ -1,5 +1,0 @@
-/home/mert/codes/csharp/E001_HelloWorld/E002_Basics/bin/Debug/E002_Basics.exe
-/home/mert/codes/csharp/E001_HelloWorld/E002_Basics/bin/Debug/E002_Basics.pdb
-/home/mert/codes/csharp/E001_HelloWorld/E002_Basics/obj/x86/Debug/E002_Basics.csproj.CoreCompileInputs.cache
-/home/mert/codes/csharp/E001_HelloWorld/E002_Basics/obj/x86/Debug/E002_Basics.exe
-/home/mert/codes/csharp/E001_HelloWorld/E002_Basics/obj/x86/Debug/E002_Basics.pdb
