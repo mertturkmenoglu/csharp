@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E004_Functions/bin/Debug/E004_Functions.exe
+/home/mert/codes/csharp/csharp/E004_Functions/bin/Debug/E004_Functions.pdb
+/home/mert/codes/csharp/csharp/E004_Functions/obj/Debug/E004_Functions.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E004_Functions/obj/Debug/E004_Functions.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E004_Functions/obj/Debug/E004_Functions.exe
+/home/mert/codes/csharp/csharp/E004_Functions/obj/Debug/E004_Functions.pdb
