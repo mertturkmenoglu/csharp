@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E010_Struct/bin/Debug/E010_Struct.exe
+/home/mert/codes/csharp/csharp/E010_Struct/bin/Debug/E010_Struct.pdb
+/home/mert/codes/csharp/csharp/E010_Struct/obj/Debug/E010_Struct.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E010_Struct/obj/Debug/E010_Struct.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E010_Struct/obj/Debug/E010_Struct.exe
+/home/mert/codes/csharp/csharp/E010_Struct/obj/Debug/E010_Struct.pdb

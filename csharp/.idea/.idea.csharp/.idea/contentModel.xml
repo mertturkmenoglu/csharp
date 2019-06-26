@@ -76,6 +76,24 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>
+      <e p="E009_OOP" t="IncludeRecursive">
+        <e p="E009_OOP.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="E010_Struct" t="IncludeRecursive">
+        <e p="E010_Struct.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
       <e p="csharp.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
