@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E009_OOP/bin/Debug/E009_OOP.exe
+/home/mert/codes/csharp/csharp/E009_OOP/bin/Debug/E009_OOP.pdb
+/home/mert/codes/csharp/csharp/E009_OOP/obj/Debug/E009_OOP.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E009_OOP/obj/Debug/E009_OOP.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E009_OOP/obj/Debug/E009_OOP.exe
+/home/mert/codes/csharp/csharp/E009_OOP/obj/Debug/E009_OOP.pdb
