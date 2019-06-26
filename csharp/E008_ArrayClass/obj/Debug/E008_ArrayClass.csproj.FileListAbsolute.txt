@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E008_ArrayClass/bin/Debug/E008_ArrayClass.exe
+/home/mert/codes/csharp/csharp/E008_ArrayClass/bin/Debug/E008_ArrayClass.pdb
+/home/mert/codes/csharp/csharp/E008_ArrayClass/obj/Debug/E008_ArrayClass.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E008_ArrayClass/obj/Debug/E008_ArrayClass.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E008_ArrayClass/obj/Debug/E008_ArrayClass.exe
+/home/mert/codes/csharp/csharp/E008_ArrayClass/obj/Debug/E008_ArrayClass.pdb

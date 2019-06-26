@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E006_Matrix", "E006_Matrix\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E007_Params", "E007_Params\E007_Params.csproj", "{C7EC536A-7202-41DD-9FB8-5908D8E72375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E008_ArrayClass", "E008_ArrayClass\E008_ArrayClass.csproj", "{BE71EF75-5293-4790-87B4-D60753345B46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{C7EC536A-7202-41DD-9FB8-5908D8E72375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7EC536A-7202-41DD-9FB8-5908D8E72375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7EC536A-7202-41DD-9FB8-5908D8E72375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE71EF75-5293-4790-87B4-D60753345B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE71EF75-5293-4790-87B4-D60753345B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE71EF75-5293-4790-87B4-D60753345B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE71EF75-5293-4790-87B4-D60753345B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
