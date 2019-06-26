@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E006_Matrix/bin/Debug/E006_Matrix.exe
+/home/mert/codes/csharp/csharp/E006_Matrix/bin/Debug/E006_Matrix.pdb
+/home/mert/codes/csharp/csharp/E006_Matrix/obj/Debug/E006_Matrix.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E006_Matrix/obj/Debug/E006_Matrix.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E006_Matrix/obj/Debug/E006_Matrix.exe
+/home/mert/codes/csharp/csharp/E006_Matrix/obj/Debug/E006_Matrix.pdb

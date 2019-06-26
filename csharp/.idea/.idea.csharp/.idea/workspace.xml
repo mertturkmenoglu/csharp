@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="Add functions example">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E003_UserInput/obj/Debug/E003_UserInput.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E003_UserInput/obj/Debug/E003_UserInput.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E004_Functions/obj/Debug/E004_Functions.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E004_Functions/obj/Debug/E004_Functions.csprojAssemblyReference.cache" afterDir="false" />
+    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="Add arrays example">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/csharp.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +14,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/E005_Arrays/Program.cs">
+        <entry file="file://$PROJECT_DIR$/E006_Matrix/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+            <state relative-caret-position="315">
+              <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
               <folding>
-                <marker date="1561550924012" expanded="true" signature="36:952" ph="{...}" />
-                <marker date="1561550924012" expanded="true" signature="72:950" ph="{...}" />
-                <marker date="1561550924012" expanded="true" signature="120:258" ph="{...}" />
-                <marker date="1561550924012" expanded="true" signature="172:248" ph="{...}" />
-                <marker date="1561550924012" expanded="true" signature="292:944" ph="{...}" />
-                <marker date="1561550924012" expanded="true" signature="436:492" ph="{...}" />
-                <marker date="1561550924012" expanded="true" signature="615:687" ph="{...}" />
-                <marker date="1561550924012" expanded="true" signature="773:845" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="36:1261" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="72:1259" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="131:403" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="190:393" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="260:342" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="461:712" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="511:702" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="569:651" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="755:1253" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="843:994" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="901:980" ph="{...}" />
+                <marker date="1561551554547" expanded="true" signature="1141:1209" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,6 +46,7 @@
     <setting file="file://$PROJECT_DIR$/E002_Basics/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E005_Arrays/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E003_UserInput/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E006_Matrix/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E001_HelloWorld/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -54,6 +57,7 @@
         <option value="$PROJECT_DIR$/E003_UserInput/Program.cs" />
         <option value="$PROJECT_DIR$/E004_Functions/Program.cs" />
         <option value="$PROJECT_DIR$/E005_Arrays/Program.cs" />
+        <option value="$PROJECT_DIR$/E006_Matrix/Program.cs" />
       </list>
     </option>
   </component>
@@ -107,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Static Method.E005_Arrays.Program.Main">
+  <component name="RunManager" selected=".NET Static Method.E006_Matrix.Program.Main">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -194,8 +198,25 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E006_Matrix.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E006_Matrix/E006_Matrix.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E006_Matrix.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Static Method.E006_Matrix.Program.Main" />
         <item itemvalue=".NET Static Method.E005_Arrays.Program.Main" />
         <item itemvalue=".NET Project.E004_Functions" />
         <item itemvalue=".NET Static Method.E003_UserInput.Program.Main" />
@@ -216,7 +237,7 @@
       <workItem from="1561489918825" duration="59000" />
       <workItem from="1561490034964" duration="1006000" />
       <workItem from="1561491322715" duration="2732000" />
-      <workItem from="1561550400609" duration="522000" />
+      <workItem from="1561550400609" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="Add user input example">
       <created>1561493590739</created>
@@ -232,11 +253,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561494276794</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add arrays example">
+      <created>1561550990683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561550990683</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4319000" />
+    <option name="totallyTimeSpent" value="4946000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,7 +354,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add user input example" />
     <MESSAGE value="Add functions example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add functions example" />
+    <MESSAGE value="Add arrays example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add arrays example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -391,7 +420,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/E005_Arrays/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="546">
           <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
           <folding>
             <marker date="1561550924012" expanded="true" signature="36:952" ph="{...}" />
@@ -402,6 +431,27 @@
             <marker date="1561550924012" expanded="true" signature="436:492" ph="{...}" />
             <marker date="1561550924012" expanded="true" signature="615:687" ph="{...}" />
             <marker date="1561550924012" expanded="true" signature="773:845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E006_Matrix/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+          <folding>
+            <marker date="1561551554547" expanded="true" signature="36:1261" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="72:1259" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="131:403" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="190:393" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="260:342" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="461:712" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="511:702" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="569:651" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="755:1253" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="843:994" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="901:980" ph="{...}" />
+            <marker date="1561551554547" expanded="true" signature="1141:1209" ph="{...}" />
           </folding>
         </state>
       </provider>
