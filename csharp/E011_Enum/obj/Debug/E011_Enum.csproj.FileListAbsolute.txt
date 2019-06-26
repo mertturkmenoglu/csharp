@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E011_Enum/bin/Debug/E011_Enum.exe
+/home/mert/codes/csharp/csharp/E011_Enum/bin/Debug/E011_Enum.pdb
+/home/mert/codes/csharp/csharp/E011_Enum/obj/Debug/E011_Enum.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E011_Enum/obj/Debug/E011_Enum.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E011_Enum/obj/Debug/E011_Enum.exe
+/home/mert/codes/csharp/csharp/E011_Enum/obj/Debug/E011_Enum.pdb

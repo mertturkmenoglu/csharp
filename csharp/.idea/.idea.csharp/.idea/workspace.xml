@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="">
+    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="Add struct example">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/csharp.sln" afterDir="false" />
     </list>
@@ -14,17 +14,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/E009_OOP/Program.cs">
+        <entry file="file://$PROJECT_DIR$/E011_Enum/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-576">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="282">
+              <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
               <folding>
-                <marker date="1561555347351" expanded="true" signature="33:968" ph="{...}" />
-                <marker date="1561555347351" expanded="true" signature="60:472" ph="{...}" />
-                <marker date="1561555347351" expanded="true" signature="110:238" ph="{...}" />
-                <marker date="1561555347351" expanded="true" signature="385:466" ph="{...}" />
-                <marker date="1561555347351" expanded="true" signature="507:965" ph="{...}" />
-                <marker date="1561555347351" expanded="true" signature="560:959" ph="{...}" />
+                <marker date="1561556271775" expanded="true" signature="34:738" ph="{...}" />
+                <marker date="1561556271775" expanded="true" signature="61:146" ph="{...}" />
+                <marker date="1561556271775" expanded="true" signature="171:395" ph="{...}" />
+                <marker date="1561556271775" expanded="true" signature="231:304" ph="{...}" />
+                <marker date="1561556271775" expanded="true" signature="434:736" ph="{...}" />
+                <marker date="1561556271775" expanded="true" signature="474:730" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,10 +40,12 @@
     <setting file="file://$PROJECT_DIR$/E002_Basics/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E005_Arrays/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E007_Params/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E011_Enum/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E003_UserInput/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E006_Matrix/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E008_ArrayClass/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E009_OOP/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E010_Struct/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E001_HelloWorld/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -58,6 +60,8 @@
         <option value="$PROJECT_DIR$/E007_Params/Program.cs" />
         <option value="$PROJECT_DIR$/E008_ArrayClass/Program.cs" />
         <option value="$PROJECT_DIR$/E009_OOP/Program.cs" />
+        <option value="$PROJECT_DIR$/E010_Struct/Program.cs" />
+        <option value="$PROJECT_DIR$/E011_Enum/Program.cs" />
       </list>
     </option>
   </component>
@@ -111,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.E009_OOP">
+  <component name="RunManager" selected=".NET Static Method.E011_Enum.Program.Main">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -166,38 +170,6 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E005_Arrays.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
-      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E005_Arrays/E005_Arrays.csproj" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
-      <option name="CLASS_NAME" value="E005_Arrays.Program" />
-      <option name="METHOD_NAME" value="Main" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E006_Matrix.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
-      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E006_Matrix/E006_Matrix.csproj" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
-      <option name="CLASS_NAME" value="E006_Matrix.Program" />
-      <option name="METHOD_NAME" value="Main" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="E008_ArrayClass.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
       <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -214,13 +186,45 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E010_Struct.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E010_Struct/E010_Struct.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E010_Struct.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E011_Enum.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E011_Enum/E011_Enum.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E011_Enum.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Static Method.E011_Enum.Program.Main" />
+        <item itemvalue=".NET Static Method.E010_Struct.Program.Main" />
         <item itemvalue=".NET Project.E009_OOP" />
         <item itemvalue=".NET Static Method.E008_ArrayClass.Program.Main" />
         <item itemvalue=".NET Project.E007_Params" />
-        <item itemvalue=".NET Static Method.E006_Matrix.Program.Main" />
-        <item itemvalue=".NET Static Method.E005_Arrays.Program.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +241,7 @@
       <workItem from="1561489918825" duration="59000" />
       <workItem from="1561490034964" duration="1006000" />
       <workItem from="1561491322715" duration="2732000" />
-      <workItem from="1561550400609" duration="3849000" />
+      <workItem from="1561550400609" duration="4771000" />
     </task>
     <task id="LOCAL-00001" summary="Add user input example">
       <created>1561493590739</created>
@@ -288,11 +292,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561553163375</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add OOP basics">
+      <created>1561555360502</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561555360502</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add struct example">
+      <created>1561555850560</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561555850560</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7646000" />
+    <option name="totallyTimeSpent" value="8568000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,7 +404,9 @@
     <MESSAGE value="Add matrix(2D Arrays) example" />
     <MESSAGE value="Add params example" />
     <MESSAGE value="Add Array class example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Array class example" />
+    <MESSAGE value="Add OOP basics" />
+    <MESSAGE value="Add struct example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add struct example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -526,6 +546,35 @@
             <marker date="1561555347351" expanded="true" signature="385:466" ph="{...}" />
             <marker date="1561555347351" expanded="true" signature="507:965" ph="{...}" />
             <marker date="1561555347351" expanded="true" signature="560:959" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E010_Struct/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <marker date="1561555793338" expanded="true" signature="36:705" ph="{...}" />
+            <marker date="1561555793338" expanded="true" signature="64:274" ph="{...}" />
+            <marker date="1561555793338" expanded="true" signature="119:193" ph="{...}" />
+            <marker date="1561555793338" expanded="true" signature="318:703" ph="{...}" />
+            <marker date="1561555793338" expanded="true" signature="358:697" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E011_Enum/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+          <folding>
+            <marker date="1561556271775" expanded="true" signature="34:738" ph="{...}" />
+            <marker date="1561556271775" expanded="true" signature="61:146" ph="{...}" />
+            <marker date="1561556271775" expanded="true" signature="171:395" ph="{...}" />
+            <marker date="1561556271775" expanded="true" signature="231:304" ph="{...}" />
+            <marker date="1561556271775" expanded="true" signature="434:736" ph="{...}" />
+            <marker date="1561556271775" expanded="true" signature="474:730" ph="{...}" />
           </folding>
         </state>
       </provider>

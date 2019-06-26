@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E009_OOP", "E009_OOP\E009_O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E010_Struct", "E010_Struct\E010_Struct.csproj", "{1F08C279-2749-4DD3-B5E3-EBE30C6B57F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E011_Enum", "E011_Enum\E011_Enum.csproj", "{873E384A-4177-430E-A1AC-3748A0FFD84E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{1F08C279-2749-4DD3-B5E3-EBE30C6B57F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F08C279-2749-4DD3-B5E3-EBE30C6B57F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F08C279-2749-4DD3-B5E3-EBE30C6B57F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873E384A-4177-430E-A1AC-3748A0FFD84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873E384A-4177-430E-A1AC-3748A0FFD84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873E384A-4177-430E-A1AC-3748A0FFD84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873E384A-4177-430E-A1AC-3748A0FFD84E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
