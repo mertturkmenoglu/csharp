@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E003_UserInput", "E003_User
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E004_Functions", "E004_Functions\E004_Functions.csproj", "{8035C5FB-1B6E-41AD-8D3E-5DE0B981BA3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E005_Arrays", "E005_Arrays\E005_Arrays.csproj", "{6C42C905-A4B2-4721-9507-FC75208F3F09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{8035C5FB-1B6E-41AD-8D3E-5DE0B981BA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8035C5FB-1B6E-41AD-8D3E-5DE0B981BA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8035C5FB-1B6E-41AD-8D3E-5DE0B981BA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C42C905-A4B2-4721-9507-FC75208F3F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C42C905-A4B2-4721-9507-FC75208F3F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C42C905-A4B2-4721-9507-FC75208F3F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C42C905-A4B2-4721-9507-FC75208F3F09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

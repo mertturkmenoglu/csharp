@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="">
+    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="Add functions example">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E003_UserInput/obj/Debug/E003_UserInput.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E003_UserInput/obj/Debug/E003_UserInput.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E004_Functions/obj/Debug/E004_Functions.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E004_Functions/obj/Debug/E004_Functions.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/csharp.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,29 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/E002_Basics/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-              <folding>
-                <marker date="1561490238257" expanded="true" signature="21:2792" ph="{...}" />
-                <marker date="1561490238257" expanded="true" signature="50:2790" ph="{...}" />
-                <marker date="1561490238257" expanded="true" signature="90:2784" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/E003_UserInput/Program.cs">
+        <entry file="file://$PROJECT_DIR$/E005_Arrays/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="459">
+              <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
               <folding>
-                <marker date="1561492992666" expanded="true" signature="39:517" ph="{...}" />
-                <marker date="1561492992666" expanded="true" signature="75:515" ph="{...}" />
-                <marker date="1561492992666" expanded="true" signature="115:509" ph="{...}" />
+                <marker date="1561550924012" expanded="true" signature="36:952" ph="{...}" />
+                <marker date="1561550924012" expanded="true" signature="72:950" ph="{...}" />
+                <marker date="1561550924012" expanded="true" signature="120:258" ph="{...}" />
+                <marker date="1561550924012" expanded="true" signature="172:248" ph="{...}" />
+                <marker date="1561550924012" expanded="true" signature="292:944" ph="{...}" />
+                <marker date="1561550924012" expanded="true" signature="436:492" ph="{...}" />
+                <marker date="1561550924012" expanded="true" signature="615:687" ph="{...}" />
+                <marker date="1561550924012" expanded="true" signature="773:845" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,7 +40,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/E004_Functions/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E002_Basics/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E005_Arrays/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E003_UserInput/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E001_HelloWorld/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -57,6 +52,8 @@
         <option value="$PROJECT_DIR$/E001_HelloWorld/Program.cs" />
         <option value="$PROJECT_DIR$/E002_Basics/Program.cs" />
         <option value="$PROJECT_DIR$/E003_UserInput/Program.cs" />
+        <option value="$PROJECT_DIR$/E004_Functions/Program.cs" />
+        <option value="$PROJECT_DIR$/E005_Arrays/Program.cs" />
       </list>
     </option>
   </component>
@@ -72,6 +69,7 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -84,7 +82,6 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Static Method.E003_UserInput.Program.Main">
+  <component name="RunManager" selected=".NET Static Method.E005_Arrays.Program.Main">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -147,6 +144,24 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E004_Functions" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E004_Functions/E004_Functions.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E003_UserInput.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
       <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -163,8 +178,26 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E005_Arrays.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E005_Arrays/E005_Arrays.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E005_Arrays.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Static Method.E005_Arrays.Program.Main" />
+        <item itemvalue=".NET Project.E004_Functions" />
         <item itemvalue=".NET Static Method.E003_UserInput.Program.Main" />
         <item itemvalue=".NET Project.E001_HelloWorld" />
       </list>
@@ -182,12 +215,28 @@
       <updated>1561489917676</updated>
       <workItem from="1561489918825" duration="59000" />
       <workItem from="1561490034964" duration="1006000" />
-      <workItem from="1561491322715" duration="1845000" />
+      <workItem from="1561491322715" duration="2732000" />
+      <workItem from="1561550400609" duration="522000" />
     </task>
+    <task id="LOCAL-00001" summary="Add user input example">
+      <created>1561493590739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561493590739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add functions example">
+      <created>1561494276794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561494276794</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2910000" />
+    <option name="totallyTimeSpent" value="4319000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -202,7 +251,7 @@
     <frame x="0" y="26" width="1920" height="1013" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -215,7 +264,7 @@
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295838" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
@@ -234,6 +283,51 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add user input example" />
+    <MESSAGE value="Add functions example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add functions example" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -259,7 +353,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/E002_Basics/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="15">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
           <folding>
             <marker date="1561490238257" expanded="true" signature="21:2792" ph="{...}" />
@@ -271,12 +365,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/E003_UserInput/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <marker date="1561492992666" expanded="true" signature="39:517" ph="{...}" />
             <marker date="1561492992666" expanded="true" signature="75:515" ph="{...}" />
             <marker date="1561492992666" expanded="true" signature="115:509" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E004_Functions/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1561494053971" expanded="true" signature="39:756" ph="{...}" />
+            <marker date="1561494053971" expanded="true" signature="75:754" ph="{...}" />
+            <marker date="1561494053971" expanded="true" signature="129:233" ph="{...}" />
+            <marker date="1561494053971" expanded="true" signature="335:439" ph="{...}" />
+            <marker date="1561494053971" expanded="true" signature="482:748" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E005_Arrays/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+          <folding>
+            <marker date="1561550924012" expanded="true" signature="36:952" ph="{...}" />
+            <marker date="1561550924012" expanded="true" signature="72:950" ph="{...}" />
+            <marker date="1561550924012" expanded="true" signature="120:258" ph="{...}" />
+            <marker date="1561550924012" expanded="true" signature="172:248" ph="{...}" />
+            <marker date="1561550924012" expanded="true" signature="292:944" ph="{...}" />
+            <marker date="1561550924012" expanded="true" signature="436:492" ph="{...}" />
+            <marker date="1561550924012" expanded="true" signature="615:687" ph="{...}" />
+            <marker date="1561550924012" expanded="true" signature="773:845" ph="{...}" />
           </folding>
         </state>
       </provider>
