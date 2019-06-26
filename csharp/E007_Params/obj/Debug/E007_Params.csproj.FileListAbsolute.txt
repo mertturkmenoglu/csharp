@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E007_Params/bin/Debug/E007_Params.exe
+/home/mert/codes/csharp/csharp/E007_Params/bin/Debug/E007_Params.pdb
+/home/mert/codes/csharp/csharp/E007_Params/obj/Debug/E007_Params.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E007_Params/obj/Debug/E007_Params.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E007_Params/obj/Debug/E007_Params.exe
+/home/mert/codes/csharp/csharp/E007_Params/obj/Debug/E007_Params.pdb
