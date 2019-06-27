@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E012_Inheritance", "E012_In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E013_MethodOverriding", "E013_MethodOverriding\E013_MethodOverriding.csproj", "{693F3015-D927-4D58-BEBB-FDC3C28F746C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E014_Generics", "E014_Generics\E014_Generics.csproj", "{70F46744-3E26-4940-8081-31BFB268D485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{693F3015-D927-4D58-BEBB-FDC3C28F746C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{693F3015-D927-4D58-BEBB-FDC3C28F746C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{693F3015-D927-4D58-BEBB-FDC3C28F746C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F46744-3E26-4940-8081-31BFB268D485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F46744-3E26-4940-8081-31BFB268D485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F46744-3E26-4940-8081-31BFB268D485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F46744-3E26-4940-8081-31BFB268D485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

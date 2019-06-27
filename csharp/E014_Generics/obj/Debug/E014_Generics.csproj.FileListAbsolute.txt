@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E014_Generics/bin/Debug/E014_Generics.exe
+/home/mert/codes/csharp/csharp/E014_Generics/bin/Debug/E014_Generics.pdb
+/home/mert/codes/csharp/csharp/E014_Generics/obj/Debug/E014_Generics.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E014_Generics/obj/Debug/E014_Generics.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E014_Generics/obj/Debug/E014_Generics.exe
+/home/mert/codes/csharp/csharp/E014_Generics/obj/Debug/E014_Generics.pdb
