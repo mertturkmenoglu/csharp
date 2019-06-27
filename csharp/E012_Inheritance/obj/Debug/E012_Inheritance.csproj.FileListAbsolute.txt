@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E012_Inheritance/bin/Debug/E012_Inheritance.exe
+/home/mert/codes/csharp/csharp/E012_Inheritance/bin/Debug/E012_Inheritance.pdb
+/home/mert/codes/csharp/csharp/E012_Inheritance/obj/Debug/E012_Inheritance.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E012_Inheritance/obj/Debug/E012_Inheritance.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E012_Inheritance/obj/Debug/E012_Inheritance.exe
+/home/mert/codes/csharp/csharp/E012_Inheritance/obj/Debug/E012_Inheritance.pdb
