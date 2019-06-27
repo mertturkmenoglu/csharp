@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="Add enum example">
-      <change afterPath="$PROJECT_DIR$/E012_Inheritance/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E005_Arrays/obj/Debug/E005_Arrays.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E005_Arrays/obj/Debug/E005_Arrays.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E006_Matrix/obj/Debug/E006_Matrix.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E006_Matrix/obj/Debug/E006_Matrix.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E007_Params/obj/Debug/E007_Params.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E007_Params/obj/Debug/E007_Params.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E008_ArrayClass/obj/Debug/E008_ArrayClass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E008_ArrayClass/obj/Debug/E008_ArrayClass.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E009_OOP/obj/Debug/E009_OOP.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E009_OOP/obj/Debug/E009_OOP.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E010_Struct/obj/Debug/E010_Struct.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E010_Struct/obj/Debug/E010_Struct.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E011_Enum/obj/Debug/E011_Enum.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E011_Enum/obj/Debug/E011_Enum.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/csharp.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,54 +13,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/E011_Enum/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-              <folding>
-                <marker date="1561556294450" expanded="true" signature="34:733" ph="{...}" />
-                <marker date="1561556294450" expanded="true" signature="61:146" ph="{...}" />
-                <marker date="1561556294450" expanded="true" signature="171:390" ph="{...}" />
-                <marker date="1561556294450" expanded="true" signature="231:304" ph="{...}" />
-                <marker date="1561556294450" expanded="true" signature="429:731" ph="{...}" />
-                <marker date="1561556294450" expanded="true" signature="469:725" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/E012_Inheritance/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-              <folding>
-                <marker date="1561626513204" expanded="true" signature="41:505" ph="{...}" />
-                <marker date="1561626513204" expanded="true" signature="78:503" ph="{...}" />
-                <marker date="1561626513204" expanded="true" signature="131:497" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/E012_Inheritance/Person.cs">
+        <entry file="file://$PROJECT_DIR$/E013_MethodOverriding/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="312">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
               <folding>
-                <marker date="1561627182131" expanded="true" signature="41:1213" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="67:561" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="139:263" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="291:555" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="317:422" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="439:545" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="596:1211" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="687:808" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="832:1198" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="858:961" ph="{...}" />
-                <marker date="1561627182131" expanded="true" signature="977:1188" ph="{...}" />
+                <marker date="1561627734619" expanded="true" signature="46:676" ph="{...}" />
+                <marker date="1561627734619" expanded="true" signature="71:186" ph="{...}" />
+                <marker date="1561627734619" expanded="true" signature="112:180" ph="{...}" />
+                <marker date="1561627734619" expanded="true" signature="222:367" ph="{...}" />
+                <marker date="1561627734619" expanded="true" signature="264:361" ph="{...}" />
+                <marker date="1561627734619" expanded="true" signature="406:674" ph="{...}" />
+                <marker date="1561627734619" expanded="true" signature="446:668" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -94,6 +50,7 @@
     <setting file="file://$PROJECT_DIR$/E011_Enum/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E003_UserInput/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E009_OOP/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E013_MethodOverriding/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -111,6 +68,7 @@
         <option value="$PROJECT_DIR$/E011_Enum/Program.cs" />
         <option value="$PROJECT_DIR$/E012_Inheritance/Program.cs" />
         <option value="$PROJECT_DIR$/E012_Inheritance/Person.cs" />
+        <option value="$PROJECT_DIR$/E013_MethodOverriding/Program.cs" />
       </list>
     </option>
   </component>
@@ -132,11 +90,6 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="E012_Inheritance" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -169,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.E012_Inheritance">
+  <component name="RunManager" selected=".NET Static Method.E013_MethodOverriding.Program.Main">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -224,22 +177,6 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E008_ArrayClass.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
-      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E008_ArrayClass/E008_ArrayClass.csproj" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
-      <option name="CLASS_NAME" value="E008_ArrayClass.Program" />
-      <option name="METHOD_NAME" value="Main" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="E010_Struct.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
       <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -272,13 +209,29 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E013_MethodOverriding.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E013_MethodOverriding/E013_MethodOverriding.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E013_MethodOverriding.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Static Method.E013_MethodOverriding.Program.Main" />
         <item itemvalue=".NET Project.E012_Inheritance" />
         <item itemvalue=".NET Static Method.E011_Enum.Program.Main" />
         <item itemvalue=".NET Static Method.E010_Struct.Program.Main" />
         <item itemvalue=".NET Project.E009_OOP" />
-        <item itemvalue=".NET Static Method.E008_ArrayClass.Program.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +249,7 @@
       <workItem from="1561490034964" duration="1006000" />
       <workItem from="1561491322715" duration="2732000" />
       <workItem from="1561550400609" duration="5085000" />
-      <workItem from="1561625941896" duration="1239000" />
+      <workItem from="1561625941896" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="Add user input example">
       <created>1561493590739</created>
@@ -368,11 +321,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561556365352</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add inheritance example">
+      <created>1561627268168</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561627268169</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10121000" />
+    <option name="totallyTimeSpent" value="10672000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,12 +347,12 @@
     <frame x="0" y="26" width="1920" height="1013" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26040554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25987193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.3295838" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -469,7 +429,8 @@
     <MESSAGE value="Add OOP basics" />
     <MESSAGE value="Add struct example" />
     <MESSAGE value="Add enum example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add enum example" />
+    <MESSAGE value="Add inheritance example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add inheritance example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -642,22 +603,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/E012_Inheritance/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding>
-            <marker date="1561626513204" expanded="true" signature="41:505" ph="{...}" />
-            <marker date="1561626513204" expanded="true" signature="78:503" ph="{...}" />
-            <marker date="1561626513204" expanded="true" signature="131:497" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/E012_Inheritance/Person.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="-37">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <marker date="1561627182131" expanded="true" signature="41:1213" ph="{...}" />
             <marker date="1561627182131" expanded="true" signature="67:561" ph="{...}" />
@@ -670,6 +619,34 @@
             <marker date="1561627182131" expanded="true" signature="832:1198" ph="{...}" />
             <marker date="1561627182131" expanded="true" signature="858:961" ph="{...}" />
             <marker date="1561627182131" expanded="true" signature="977:1188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E012_Inheritance/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <marker date="1561626513204" expanded="true" signature="41:505" ph="{...}" />
+            <marker date="1561626513204" expanded="true" signature="78:503" ph="{...}" />
+            <marker date="1561626513204" expanded="true" signature="131:497" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E013_MethodOverriding/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <marker date="1561627734619" expanded="true" signature="46:676" ph="{...}" />
+            <marker date="1561627734619" expanded="true" signature="71:186" ph="{...}" />
+            <marker date="1561627734619" expanded="true" signature="112:180" ph="{...}" />
+            <marker date="1561627734619" expanded="true" signature="222:367" ph="{...}" />
+            <marker date="1561627734619" expanded="true" signature="264:361" ph="{...}" />
+            <marker date="1561627734619" expanded="true" signature="406:674" ph="{...}" />
+            <marker date="1561627734619" expanded="true" signature="446:668" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E013_MethodOverriding/bin/Debug/E013_MethodOverriding.exe
+/home/mert/codes/csharp/csharp/E013_MethodOverriding/bin/Debug/E013_MethodOverriding.pdb
+/home/mert/codes/csharp/csharp/E013_MethodOverriding/obj/Debug/E013_MethodOverriding.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E013_MethodOverriding/obj/Debug/E013_MethodOverriding.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E013_MethodOverriding/obj/Debug/E013_MethodOverriding.exe
+/home/mert/codes/csharp/csharp/E013_MethodOverriding/obj/Debug/E013_MethodOverriding.pdb
