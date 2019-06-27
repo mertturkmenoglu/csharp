@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="">
+    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="Add generics example">
+      <change afterPath="$PROJECT_DIR$/E015_Abstraction/Number.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E015_Abstraction/Vehicle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E012_Inheritance/obj/Debug/E012_Inheritance.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E012_Inheritance/obj/Debug/E012_Inheritance.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E013_MethodOverriding/obj/Debug/E013_MethodOverriding.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E013_MethodOverriding/obj/Debug/E013_MethodOverriding.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E014_Generics/obj/Debug/E014_Generics.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E014_Generics/obj/Debug/E014_Generics.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/csharp.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,18 +20,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/E013_MethodOverriding/Program.cs">
+        <entry file="file://$PROJECT_DIR$/E015_Abstraction/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="478">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               <folding>
-                <marker date="1561627734619" expanded="true" signature="46:676" ph="{...}" />
-                <marker date="1561627734619" expanded="true" signature="71:186" ph="{...}" />
-                <marker date="1561627734619" expanded="true" signature="112:180" ph="{...}" />
-                <marker date="1561627734619" expanded="true" signature="222:367" ph="{...}" />
-                <marker date="1561627734619" expanded="true" signature="264:361" ph="{...}" />
-                <marker date="1561627734619" expanded="true" signature="406:674" ph="{...}" />
-                <marker date="1561627734619" expanded="true" signature="446:668" ph="{...}" />
+                <marker date="1561637592135" expanded="true" signature="26:568" ph="{...}" />
+                <marker date="1561637592135" expanded="true" signature="62:566" ph="{...}" />
+                <marker date="1561637592135" expanded="true" signature="115:560" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,11 +39,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/E015_Abstraction/Vehicle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E002_Basics/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E006_Matrix/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E008_ArrayClass/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E010_Struct/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E012_Inheritance/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E015_Abstraction/Number.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E014_Generics/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E001_HelloWorld/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E012_Inheritance/Person.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E004_Functions/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -50,6 +55,7 @@
     <setting file="file://$PROJECT_DIR$/E011_Enum/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E003_UserInput/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E009_OOP/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E015_Abstraction/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E013_MethodOverriding/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -69,6 +75,10 @@
         <option value="$PROJECT_DIR$/E012_Inheritance/Program.cs" />
         <option value="$PROJECT_DIR$/E012_Inheritance/Person.cs" />
         <option value="$PROJECT_DIR$/E013_MethodOverriding/Program.cs" />
+        <option value="$PROJECT_DIR$/E014_Generics/Program.cs" />
+        <option value="$PROJECT_DIR$/E015_Abstraction/Vehicle.cs" />
+        <option value="$PROJECT_DIR$/E015_Abstraction/Number.cs" />
+        <option value="$PROJECT_DIR$/E015_Abstraction/Program.cs" />
       </list>
     </option>
   </component>
@@ -84,6 +94,7 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -91,12 +102,16 @@
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="E015_Abstraction" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Static Method.E013_MethodOverriding.Program.Main">
+  <component name="RunManager" selected=".NET Project.E015_Abstraction">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -137,24 +152,6 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="None" />
       <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E009_OOP" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E009_OOP/E009_OOP.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -177,18 +174,20 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E010_Struct.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
-      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+    <configuration name="E015_Abstraction" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E010_Struct/E010_Struct.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E015_Abstraction/E015_Abstraction.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
-      <option name="CLASS_NAME" value="E010_Struct.Program" />
-      <option name="METHOD_NAME" value="Main" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -225,13 +224,29 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E014_Generics.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E014_Generics/E014_Generics.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E014_Generics.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.E015_Abstraction" />
+        <item itemvalue=".NET Static Method.E014_Generics.Program.Main" />
         <item itemvalue=".NET Static Method.E013_MethodOverriding.Program.Main" />
         <item itemvalue=".NET Project.E012_Inheritance" />
         <item itemvalue=".NET Static Method.E011_Enum.Program.Main" />
-        <item itemvalue=".NET Static Method.E010_Struct.Program.Main" />
-        <item itemvalue=".NET Project.E009_OOP" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +264,8 @@
       <workItem from="1561490034964" duration="1006000" />
       <workItem from="1561491322715" duration="2732000" />
       <workItem from="1561550400609" duration="5085000" />
-      <workItem from="1561625941896" duration="1790000" />
+      <workItem from="1561625941896" duration="2218000" />
+      <workItem from="1561635623836" duration="1447000" />
     </task>
     <task id="LOCAL-00001" summary="Add user input example">
       <created>1561493590739</created>
@@ -328,11 +344,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561627268169</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add method overriding example">
+      <created>1561627785279</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561627785279</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add generics example">
+      <created>1561628143073</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561628143073</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10672000" />
+    <option name="totallyTimeSpent" value="12547000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -347,7 +377,7 @@
     <frame x="0" y="26" width="1920" height="1013" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25987193" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2620064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -430,7 +460,9 @@
     <MESSAGE value="Add struct example" />
     <MESSAGE value="Add enum example" />
     <MESSAGE value="Add inheritance example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add inheritance example" />
+    <MESSAGE value="Add method overriding example" />
+    <MESSAGE value="Add generics example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add generics example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -637,8 +669,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/E013_MethodOverriding/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="156">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <marker date="1561627734619" expanded="true" signature="46:676" ph="{...}" />
             <marker date="1561627734619" expanded="true" signature="71:186" ph="{...}" />
@@ -647,6 +679,67 @@
             <marker date="1561627734619" expanded="true" signature="264:361" ph="{...}" />
             <marker date="1561627734619" expanded="true" signature="406:674" ph="{...}" />
             <marker date="1561627734619" expanded="true" signature="446:668" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E014_Generics/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <marker date="1561628126633" expanded="true" signature="38:692" ph="{...}" />
+            <marker date="1561628126633" expanded="true" signature="70:209" ph="{...}" />
+            <marker date="1561628126633" expanded="true" signature="110:157" ph="{...}" />
+            <marker date="1561628126633" expanded="true" signature="239:365" ph="{...}" />
+            <marker date="1561628126633" expanded="true" signature="299:359" ph="{...}" />
+            <marker date="1561628126633" expanded="true" signature="404:690" ph="{...}" />
+            <marker date="1561628126633" expanded="true" signature="444:684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E015_Abstraction/Vehicle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding>
+            <marker date="1561637164961" expanded="true" signature="41:613" ph="{...}" />
+            <marker date="1561637164961" expanded="true" signature="77:262" ph="{...}" />
+            <marker date="1561637164961" expanded="true" signature="162:256" ph="{...}" />
+            <marker date="1561637164961" expanded="true" signature="305:437" ph="{...}" />
+            <marker date="1561637164961" expanded="true" signature="353:431" ph="{...}" />
+            <marker date="1561637164961" expanded="true" signature="479:611" ph="{...}" />
+            <marker date="1561637164961" expanded="true" signature="527:605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E015_Abstraction/Number.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1561637515637" expanded="true" signature="41:670" ph="{...}" />
+            <marker date="1561637515637" expanded="true" signature="72:111" ph="{...}" />
+            <marker date="1561637515637" expanded="true" signature="147:386" ph="{...}" />
+            <marker date="1561637515637" expanded="true" signature="187:234" ph="{...}" />
+            <marker date="1561637515637" expanded="true" signature="308:380" ph="{...}" />
+            <marker date="1561637515637" expanded="true" signature="423:668" ph="{...}" />
+            <marker date="1561637515637" expanded="true" signature="466:513" ph="{...}" />
+            <marker date="1561637515637" expanded="true" signature="589:662" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E015_Abstraction/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <marker date="1561637592135" expanded="true" signature="26:568" ph="{...}" />
+            <marker date="1561637592135" expanded="true" signature="62:566" ph="{...}" />
+            <marker date="1561637592135" expanded="true" signature="115:560" ph="{...}" />
           </folding>
         </state>
       </provider>

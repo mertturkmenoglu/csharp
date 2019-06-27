@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E015_Abstraction/bin/Debug/E015_Abstraction.exe
+/home/mert/codes/csharp/csharp/E015_Abstraction/bin/Debug/E015_Abstraction.pdb
+/home/mert/codes/csharp/csharp/E015_Abstraction/obj/Debug/E015_Abstraction.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E015_Abstraction/obj/Debug/E015_Abstraction.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E015_Abstraction/obj/Debug/E015_Abstraction.exe
+/home/mert/codes/csharp/csharp/E015_Abstraction/obj/Debug/E015_Abstraction.pdb
