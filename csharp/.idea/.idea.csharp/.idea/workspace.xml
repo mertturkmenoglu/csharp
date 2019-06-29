@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="Add generics example">
-      <change afterPath="$PROJECT_DIR$/E015_Abstraction/Number.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/E015_Abstraction/Vehicle.cs" afterDir="false" />
+    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/E016_QuickSort/Sort.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E012_Inheritance/obj/Debug/E012_Inheritance.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E012_Inheritance/obj/Debug/E012_Inheritance.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E013_MethodOverriding/obj/Debug/E013_MethodOverriding.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E013_MethodOverriding/obj/Debug/E013_MethodOverriding.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E014_Generics/obj/Debug/E014_Generics.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E014_Generics/obj/Debug/E014_Generics.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E015_Abstraction/obj/Debug/E015_Abstraction.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E015_Abstraction/obj/Debug/E015_Abstraction.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/csharp.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,14 +17,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/E015_Abstraction/Program.cs">
+        <entry file="file://$PROJECT_DIR$/E016_QuickSort/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="429">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
-                <marker date="1561637592135" expanded="true" signature="26:568" ph="{...}" />
-                <marker date="1561637592135" expanded="true" signature="62:566" ph="{...}" />
-                <marker date="1561637592135" expanded="true" signature="115:560" ph="{...}" />
+                <marker date="1561840912037" expanded="true" signature="39:454" ph="{...}" />
+                <marker date="1561840912037" expanded="true" signature="75:452" ph="{...}" />
+                <marker date="1561840912037" expanded="true" signature="115:446" ph="{...}" />
+                <marker date="1561840912037" expanded="true" signature="214:278" ph="{...}" />
+                <marker date="1561840912037" expanded="true" signature="368:436" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/E016_QuickSort/Sort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding>
+                <marker date="1561840795929" expanded="true" signature="24:947" ph="{...}" />
+                <marker date="1561840795929" expanded="true" signature="48:945" ph="{...}" />
+                <marker date="1561840795929" expanded="true" signature="122:356" ph="{...}" />
+                <marker date="1561840795929" expanded="true" signature="161:346" ph="{...}" />
+                <marker date="1561840795929" expanded="true" signature="425:939" ph="{...}" />
+                <marker date="1561840795929" expanded="true" signature="568:801" ph="{...}" />
+                <marker date="1561840795929" expanded="true" signature="619:787" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,9 +64,11 @@
     <setting file="file://$PROJECT_DIR$/E012_Inheritance/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E015_Abstraction/Number.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E014_Generics/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E016_QuickSort/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E001_HelloWorld/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E012_Inheritance/Person.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E004_Functions/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E016_QuickSort/Sort.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E005_Arrays/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E007_Params/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E011_Enum/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -79,6 +98,8 @@
         <option value="$PROJECT_DIR$/E015_Abstraction/Vehicle.cs" />
         <option value="$PROJECT_DIR$/E015_Abstraction/Number.cs" />
         <option value="$PROJECT_DIR$/E015_Abstraction/Program.cs" />
+        <option value="$PROJECT_DIR$/E016_QuickSort/Sort.cs" />
+        <option value="$PROJECT_DIR$/E016_QuickSort/Program.cs" />
       </list>
     </option>
   </component>
@@ -93,8 +114,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -105,7 +126,7 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="E015_Abstraction" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="E016_QuickSort" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -137,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.E015_Abstraction">
+  <component name="RunManager" selected=".NET Static Method.E016_QuickSort.Program.Main">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -192,22 +213,6 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E011_Enum.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
-      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E011_Enum/E011_Enum.csproj" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
-      <option name="CLASS_NAME" value="E011_Enum.Program" />
-      <option name="METHOD_NAME" value="Main" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="E013_MethodOverriding.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
       <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -240,13 +245,29 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E016_QuickSort.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E016_QuickSort/E016_QuickSort.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E016_QuickSort.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Static Method.E016_QuickSort.Program.Main" />
         <item itemvalue=".NET Project.E015_Abstraction" />
         <item itemvalue=".NET Static Method.E014_Generics.Program.Main" />
         <item itemvalue=".NET Static Method.E013_MethodOverriding.Program.Main" />
         <item itemvalue=".NET Project.E012_Inheritance" />
-        <item itemvalue=".NET Static Method.E011_Enum.Program.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +286,8 @@
       <workItem from="1561491322715" duration="2732000" />
       <workItem from="1561550400609" duration="5085000" />
       <workItem from="1561625941896" duration="2218000" />
-      <workItem from="1561635623836" duration="1447000" />
+      <workItem from="1561635623836" duration="2177000" />
+      <workItem from="1561840276203" duration="635000" />
     </task>
     <task id="LOCAL-00001" summary="Add user input example">
       <created>1561493590739</created>
@@ -358,11 +380,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561628143073</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add abstract class and interface example">
+      <created>1561637708738</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561637708739</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12547000" />
+    <option name="totallyTimeSpent" value="13912000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,12 +406,12 @@
     <frame x="0" y="26" width="1920" height="1013" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2620064" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26520813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.3295838" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.3295838" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -462,7 +491,8 @@
     <MESSAGE value="Add inheritance example" />
     <MESSAGE value="Add method overriding example" />
     <MESSAGE value="Add generics example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add generics example" />
+    <MESSAGE value="Add abstract class and interface example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add abstract class and interface example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -734,12 +764,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/E015_Abstraction/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <marker date="1561637592135" expanded="true" signature="26:568" ph="{...}" />
             <marker date="1561637592135" expanded="true" signature="62:566" ph="{...}" />
             <marker date="1561637592135" expanded="true" signature="115:560" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E016_QuickSort/Sort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <marker date="1561840795929" expanded="true" signature="24:947" ph="{...}" />
+            <marker date="1561840795929" expanded="true" signature="48:945" ph="{...}" />
+            <marker date="1561840795929" expanded="true" signature="122:356" ph="{...}" />
+            <marker date="1561840795929" expanded="true" signature="161:346" ph="{...}" />
+            <marker date="1561840795929" expanded="true" signature="425:939" ph="{...}" />
+            <marker date="1561840795929" expanded="true" signature="568:801" ph="{...}" />
+            <marker date="1561840795929" expanded="true" signature="619:787" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E016_QuickSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1561840912037" expanded="true" signature="39:454" ph="{...}" />
+            <marker date="1561840912037" expanded="true" signature="75:452" ph="{...}" />
+            <marker date="1561840912037" expanded="true" signature="115:446" ph="{...}" />
+            <marker date="1561840912037" expanded="true" signature="214:278" ph="{...}" />
+            <marker date="1561840912037" expanded="true" signature="368:436" ph="{...}" />
           </folding>
         </state>
       </provider>

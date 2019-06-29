@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E016_QuickSort/bin/Debug/E016_QuickSort.exe
+/home/mert/codes/csharp/csharp/E016_QuickSort/bin/Debug/E016_QuickSort.pdb
+/home/mert/codes/csharp/csharp/E016_QuickSort/obj/Debug/E016_QuickSort.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E016_QuickSort/obj/Debug/E016_QuickSort.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E016_QuickSort/obj/Debug/E016_QuickSort.exe
+/home/mert/codes/csharp/csharp/E016_QuickSort/obj/Debug/E016_QuickSort.pdb
