@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E017_MergeSort/obj/Debug/E017_MergeSort.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E017_MergeSort/obj/Debug/E017_MergeSort.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E017_MergeSort/bin/Debug/E017_MergeSort.exe
+/home/mert/codes/csharp/csharp/E017_MergeSort/bin/Debug/E017_MergeSort.pdb
+/home/mert/codes/csharp/csharp/E017_MergeSort/obj/Debug/E017_MergeSort.exe
+/home/mert/codes/csharp/csharp/E017_MergeSort/obj/Debug/E017_MergeSort.pdb
