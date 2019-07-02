@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/E017_MergeSort/Sort.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E016_QuickSort/obj/Debug/E016_QuickSort.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E016_QuickSort/obj/Debug/E016_QuickSort.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E017_MergeSort/obj/Debug/E017_MergeSort.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E017_MergeSort/obj/Debug/E017_MergeSort.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/csharp.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +12,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="csharp" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/E017_MergeSort/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="105">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <marker date="1562011401180" expanded="true" signature="39:727" ph="{...}" />
                 <marker date="1562011401180" expanded="true" signature="75:725" ph="{...}" />
@@ -33,21 +34,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/E017_MergeSort/Sort.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/E018_String/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-448">
-              <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+            <state relative-caret-position="531">
+              <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
               <folding>
-                <marker date="1562011378252" expanded="true" signature="24:1214" ph="{...}" />
-                <marker date="1562011378252" expanded="true" signature="55:1212" ph="{...}" />
-                <marker date="1562011378252" expanded="true" signature="140:397" ph="{...}" />
-                <marker date="1562011378252" expanded="true" signature="179:387" ph="{...}" />
-                <marker date="1562011378252" expanded="true" signature="473:1206" ph="{...}" />
-                <marker date="1562011378252" expanded="true" signature="677:873" ph="{...}" />
-                <marker date="1562011378252" expanded="true" signature="915:984" ph="{...}" />
-                <marker date="1562011378252" expanded="true" signature="1014:1083" ph="{...}" />
-                <marker date="1562011378252" expanded="true" signature="1127:1196" ph="{...}" />
+                <marker date="1562094828766" expanded="true" signature="0:32" ph="/* System.String methods ... */" />
+                <marker date="1562094828766" expanded="true" signature="40:66" ph="..." />
+                <marker date="1562094828766" expanded="true" signature="89:2253" ph="{...}" />
+                <marker date="1562094828766" expanded="true" signature="125:2251" ph="{...}" />
+                <marker date="1562094828766" expanded="true" signature="165:2245" ph="{...}" />
+                <marker date="1562094828766" expanded="true" signature="475:937" ph="{...}" />
+                <marker date="1562094828766" expanded="true" signature="1022:1100" ph="{...}" />
+                <marker date="1562094828766" expanded="true" signature="1122:1201" ph="{...}" />
+                <marker date="1562094828766" expanded="true" signature="1218:1296" ph="{...}" />
+                <marker date="1562094828766" expanded="true" signature="2167:2235" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -80,6 +82,7 @@
     <setting file="file://$PROJECT_DIR$/E003_UserInput/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E009_OOP/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E015_Abstraction/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E018_String/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E013_MethodOverriding/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E017_MergeSort/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -107,8 +110,9 @@
         <option value="$PROJECT_DIR$/E016_QuickSort/Sort.cs" />
         <option value="$PROJECT_DIR$/E016_QuickSort/Program.cs" />
         <option value="$PROJECT_DIR$/E017_MergeSort/MergeSort.cs" />
-        <option value="$PROJECT_DIR$/E017_MergeSort/Sort.cs" />
         <option value="$PROJECT_DIR$/E017_MergeSort/Program.cs" />
+        <option value="$PROJECT_DIR$/E017_MergeSort/Sort.cs" />
+        <option value="$PROJECT_DIR$/E018_String/Program.cs" />
       </list>
     </option>
   </component>
@@ -130,16 +134,6 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="E014_Generics" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="E017_MergeSort" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -172,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Static Method.E017_MergeSort.Program.Main">
+  <component name="RunManager" selected=".NET Static Method.E018_String.Program.Main">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -205,22 +199,6 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E013_MethodOverriding.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
-      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E013_MethodOverriding/E013_MethodOverriding.csproj" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
-      <option name="CLASS_NAME" value="E013_MethodOverriding.Program" />
-      <option name="METHOD_NAME" value="Main" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -273,13 +251,29 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E018_String.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E018_String/E018_String.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E018_String.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Static Method.E018_String.Program.Main" />
         <item itemvalue=".NET Static Method.E017_MergeSort.Program.Main" />
         <item itemvalue=".NET Static Method.E016_QuickSort.Program.Main" />
         <item itemvalue=".NET Project.E015_Abstraction" />
         <item itemvalue=".NET Static Method.E014_Generics.Program.Main" />
-        <item itemvalue=".NET Static Method.E013_MethodOverriding.Program.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +294,8 @@
       <workItem from="1561625941896" duration="2218000" />
       <workItem from="1561635623836" duration="2177000" />
       <workItem from="1561840276203" duration="756000" />
-      <workItem from="1562009880495" duration="1520000" />
+      <workItem from="1562009880495" duration="2341000" />
+      <workItem from="1562092127969" duration="2695000" />
     </task>
     <task id="LOCAL-00001" summary="Add user input example">
       <created>1561493590739</created>
@@ -407,11 +402,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561840983159</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add MergeSort implementation">
+      <created>1562011620188</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1562011620188</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15553000" />
+    <option name="totallyTimeSpent" value="19069000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,13 +428,13 @@
     <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26520813" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49921995" visible="true" weight="0.26840982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50078005" side_tool="true" visible="true" weight="0.26840982" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" weight="0.3295838" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -444,7 +446,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50053364" side_tool="true" weight="0.3295838" />
-      <window_info active="true" anchor="bottom" id="Build" order="15" visible="true" weight="0.3294979" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3294979" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -513,7 +515,8 @@
     <MESSAGE value="Add generics example" />
     <MESSAGE value="Add abstract class and interface example" />
     <MESSAGE value="Add QuickSort implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add QuickSort implementation" />
+    <MESSAGE value="Add MergeSort implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MergeSort implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -834,26 +837,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/E017_MergeSort/Sort.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-448">
-          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+        <state relative-caret-position="196">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding>
-            <marker date="1562011378252" expanded="true" signature="24:1214" ph="{...}" />
-            <marker date="1562011378252" expanded="true" signature="55:1212" ph="{...}" />
-            <marker date="1562011378252" expanded="true" signature="140:397" ph="{...}" />
-            <marker date="1562011378252" expanded="true" signature="179:387" ph="{...}" />
-            <marker date="1562011378252" expanded="true" signature="473:1206" ph="{...}" />
-            <marker date="1562011378252" expanded="true" signature="677:873" ph="{...}" />
-            <marker date="1562011378252" expanded="true" signature="915:984" ph="{...}" />
-            <marker date="1562011378252" expanded="true" signature="1014:1083" ph="{...}" />
-            <marker date="1562011378252" expanded="true" signature="1127:1196" ph="{...}" />
+            <marker date="1562011593973" expanded="true" signature="24:1180" ph="{...}" />
+            <marker date="1562011593973" expanded="true" signature="55:1178" ph="{...}" />
+            <marker date="1562011593973" expanded="true" signature="140:362" ph="{...}" />
+            <marker date="1562011593973" expanded="true" signature="438:1172" ph="{...}" />
+            <marker date="1562011593973" expanded="true" signature="642:839" ph="{...}" />
+            <marker date="1562011593973" expanded="true" signature="881:950" ph="{...}" />
+            <marker date="1562011593973" expanded="true" signature="980:1049" ph="{...}" />
+            <marker date="1562011593973" expanded="true" signature="1093:1162" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/E017_MergeSort/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        <state relative-caret-position="105">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <marker date="1562011401180" expanded="true" signature="39:727" ph="{...}" />
             <marker date="1562011401180" expanded="true" signature="75:725" ph="{...}" />
@@ -861,6 +863,25 @@
             <marker date="1562011401180" expanded="true" signature="285:355" ph="{...}" />
             <marker date="1562011401180" expanded="true" signature="393:464" ph="{...}" />
             <marker date="1562011401180" expanded="true" signature="604:675" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E018_String/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+          <folding>
+            <marker date="1562094828766" expanded="true" signature="0:32" ph="/* System.String methods ... */" />
+            <marker date="1562094828766" expanded="true" signature="40:66" ph="..." />
+            <marker date="1562094828766" expanded="true" signature="89:2253" ph="{...}" />
+            <marker date="1562094828766" expanded="true" signature="125:2251" ph="{...}" />
+            <marker date="1562094828766" expanded="true" signature="165:2245" ph="{...}" />
+            <marker date="1562094828766" expanded="true" signature="475:937" ph="{...}" />
+            <marker date="1562094828766" expanded="true" signature="1022:1100" ph="{...}" />
+            <marker date="1562094828766" expanded="true" signature="1122:1201" ph="{...}" />
+            <marker date="1562094828766" expanded="true" signature="1218:1296" ph="{...}" />
+            <marker date="1562094828766" expanded="true" signature="2167:2235" ph="{...}" />
           </folding>
         </state>
       </provider>

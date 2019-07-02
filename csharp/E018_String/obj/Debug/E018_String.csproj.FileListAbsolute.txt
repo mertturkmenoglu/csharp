@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E018_String/bin/Debug/E018_String.exe
+/home/mert/codes/csharp/csharp/E018_String/bin/Debug/E018_String.pdb
+/home/mert/codes/csharp/csharp/E018_String/obj/Debug/E018_String.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E018_String/obj/Debug/E018_String.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E018_String/obj/Debug/E018_String.exe
+/home/mert/codes/csharp/csharp/E018_String/obj/Debug/E018_String.pdb
