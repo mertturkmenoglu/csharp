@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="">
+    <list default="true" id="d591fbde-8f78-4815-bfbb-3ecc462a6003" name="Default Changelist" comment="Add System.String methods example">
+      <change afterPath="$PROJECT_DIR$/E019_Exception/InvalidTemperatureException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E017_MergeSort/obj/Debug/E017_MergeSort.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/E017_MergeSort/obj/Debug/E017_MergeSort.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/csharp.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,39 +18,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/E017_MergeSort/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding>
-                <marker date="1562011401180" expanded="true" signature="39:727" ph="{...}" />
-                <marker date="1562011401180" expanded="true" signature="75:725" ph="{...}" />
-                <marker date="1562011401180" expanded="true" signature="115:719" ph="{...}" />
-                <marker date="1562011401180" expanded="true" signature="285:355" ph="{...}" />
-                <marker date="1562011401180" expanded="true" signature="393:464" ph="{...}" />
-                <marker date="1562011401180" expanded="true" signature="604:675" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/E018_String/Program.cs">
+        <entry file="file://$PROJECT_DIR$/E019_Exception/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+            <state relative-caret-position="114">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
-                <marker date="1562094828766" expanded="true" signature="0:32" ph="/* System.String methods ... */" />
-                <marker date="1562094828766" expanded="true" signature="40:66" ph="..." />
-                <marker date="1562094828766" expanded="true" signature="89:2253" ph="{...}" />
-                <marker date="1562094828766" expanded="true" signature="125:2251" ph="{...}" />
-                <marker date="1562094828766" expanded="true" signature="165:2245" ph="{...}" />
-                <marker date="1562094828766" expanded="true" signature="475:937" ph="{...}" />
-                <marker date="1562094828766" expanded="true" signature="1022:1100" ph="{...}" />
-                <marker date="1562094828766" expanded="true" signature="1122:1201" ph="{...}" />
-                <marker date="1562094828766" expanded="true" signature="1218:1296" ph="{...}" />
-                <marker date="1562094828766" expanded="true" signature="2167:2235" ph="{...}" />
+                <marker date="1562095680384" expanded="true" signature="39:651" ph="{...}" />
+                <marker date="1562095680384" expanded="true" signature="75:649" ph="{...}" />
+                <marker date="1562095680384" expanded="true" signature="115:436" ph="{...}" />
+                <marker date="1562095680384" expanded="true" signature="248:292" ph="{...}" />
+                <marker date="1562095680384" expanded="true" signature="324:413" ph="{...}" />
+                <marker date="1562095680384" expanded="true" signature="484:643" ph="{...}" />
+                <marker date="1562095680384" expanded="true" signature="520:633" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -61,27 +42,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/E015_Abstraction/Vehicle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E002_Basics/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E017_MergeSort/Sort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E019_Exception/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E006_Matrix/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/E008_ArrayClass/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E010_Struct/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/E012_Inheritance/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/E015_Abstraction/Number.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E014_Generics/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5DAD02F-7131-4095-BDDB-65A504A4B77D/5e/3a2572f1/Int64.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E019_Exception/InvalidTemperatureException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E005_Arrays/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E007_Params/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E011_Enum/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E015_Abstraction/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E015_Abstraction/Vehicle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E008_ArrayClass/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E012_Inheritance/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/E015_Abstraction/Number.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E016_QuickSort/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E001_HelloWorld/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E012_Inheritance/Person.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E004_Functions/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E016_QuickSort/Sort.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/E005_Arrays/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/E007_Params/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/E011_Enum/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E003_UserInput/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E009_OOP/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/E015_Abstraction/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E018_String/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E013_MethodOverriding/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/E017_MergeSort/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -113,6 +96,8 @@
         <option value="$PROJECT_DIR$/E017_MergeSort/Program.cs" />
         <option value="$PROJECT_DIR$/E017_MergeSort/Sort.cs" />
         <option value="$PROJECT_DIR$/E018_String/Program.cs" />
+        <option value="$PROJECT_DIR$/E019_Exception/InvalidTemperatureException.cs" />
+        <option value="$PROJECT_DIR$/E019_Exception/Program.cs" />
       </list>
     </option>
   </component>
@@ -134,6 +119,16 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="E003_UserInput" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="csharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="E019_Exception" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -166,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Static Method.E018_String.Program.Main">
+  <component name="RunManager" selected=".NET Static Method.E019_Exception.Program.Main">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -199,22 +194,6 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E014_Generics.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
-      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E014_Generics/E014_Generics.csproj" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
-      <option name="CLASS_NAME" value="E014_Generics.Program" />
-      <option name="METHOD_NAME" value="Main" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -267,13 +246,29 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E019_Exception.Program.Main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/E019_Exception/E019_Exception.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="E019_Exception.Program" />
+      <option name="METHOD_NAME" value="Main" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Static Method.E019_Exception.Program.Main" />
         <item itemvalue=".NET Static Method.E018_String.Program.Main" />
         <item itemvalue=".NET Static Method.E017_MergeSort.Program.Main" />
         <item itemvalue=".NET Static Method.E016_QuickSort.Program.Main" />
         <item itemvalue=".NET Project.E015_Abstraction" />
-        <item itemvalue=".NET Static Method.E014_Generics.Program.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +290,7 @@
       <workItem from="1561635623836" duration="2177000" />
       <workItem from="1561840276203" duration="756000" />
       <workItem from="1562009880495" duration="2341000" />
-      <workItem from="1562092127969" duration="2695000" />
+      <workItem from="1562092127969" duration="3546000" />
     </task>
     <task id="LOCAL-00001" summary="Add user input example">
       <created>1561493590739</created>
@@ -409,11 +404,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562011620188</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add System.String methods example">
+      <created>1562095037984</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1562095037984</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19069000" />
+    <option name="totallyTimeSpent" value="19920000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,9 +430,9 @@
     <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49921995" visible="true" weight="0.26840982" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49921995" visible="true" weight="0.1072572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50078005" side_tool="true" visible="true" weight="0.26840982" />
+      <window_info id="Favorites" order="2" sideWeight="0.50078005" side_tool="true" weight="0.26840982" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.3294979" />
@@ -516,7 +518,8 @@
     <MESSAGE value="Add abstract class and interface example" />
     <MESSAGE value="Add QuickSort implementation" />
     <MESSAGE value="Add MergeSort implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add MergeSort implementation" />
+    <MESSAGE value="Add System.String methods example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add System.String methods example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -549,18 +552,6 @@
             <marker date="1561490238257" expanded="true" signature="21:2792" ph="{...}" />
             <marker date="1561490238257" expanded="true" signature="50:2790" ph="{...}" />
             <marker date="1561490238257" expanded="true" signature="90:2784" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/E003_UserInput/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <marker date="1561492992666" expanded="true" signature="39:517" ph="{...}" />
-            <marker date="1561492992666" expanded="true" signature="75:515" ph="{...}" />
-            <marker date="1561492992666" expanded="true" signature="115:509" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -869,19 +860,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/E018_String/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        <state relative-caret-position="-369">
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
           <folding>
-            <marker date="1562094828766" expanded="true" signature="0:32" ph="/* System.String methods ... */" />
-            <marker date="1562094828766" expanded="true" signature="40:66" ph="..." />
-            <marker date="1562094828766" expanded="true" signature="89:2253" ph="{...}" />
-            <marker date="1562094828766" expanded="true" signature="125:2251" ph="{...}" />
-            <marker date="1562094828766" expanded="true" signature="165:2245" ph="{...}" />
-            <marker date="1562094828766" expanded="true" signature="475:937" ph="{...}" />
-            <marker date="1562094828766" expanded="true" signature="1022:1100" ph="{...}" />
-            <marker date="1562094828766" expanded="true" signature="1122:1201" ph="{...}" />
-            <marker date="1562094828766" expanded="true" signature="1218:1296" ph="{...}" />
-            <marker date="1562094828766" expanded="true" signature="2167:2235" ph="{...}" />
+            <marker date="1562094978923" expanded="true" signature="0:32" ph="/* System.String methods ... */" />
+            <marker date="1562094978923" expanded="true" signature="40:66" ph="..." />
+            <marker date="1562094978923" expanded="true" signature="89:2497" ph="{...}" />
+            <marker date="1562094978923" expanded="true" signature="125:2495" ph="{...}" />
+            <marker date="1562094978923" expanded="true" signature="165:2489" ph="{...}" />
+            <marker date="1562094978923" expanded="true" signature="475:937" ph="{...}" />
+            <marker date="1562094978923" expanded="true" signature="1022:1100" ph="{...}" />
+            <marker date="1562094978923" expanded="true" signature="1122:1201" ph="{...}" />
+            <marker date="1562094978923" expanded="true" signature="1218:1296" ph="{...}" />
+            <marker date="1562094978923" expanded="true" signature="2167:2235" ph="{...}" />
+            <marker date="1562094978923" expanded="true" signature="2338:2405" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E019_Exception/InvalidTemperatureException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1562095437793" expanded="true" signature="39:220" ph="{...}" />
+            <marker date="1562095437793" expanded="true" signature="98:218" ph="{...}" />
+            <marker date="1562095437793" expanded="true" signature="179:212" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E003_UserInput/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1561492992666" expanded="true" signature="39:517" ph="{...}" />
+            <marker date="1561492992666" expanded="true" signature="75:515" ph="{...}" />
+            <marker date="1561492992666" expanded="true" signature="115:509" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E019_Exception/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <marker date="1562095680384" expanded="true" signature="39:651" ph="{...}" />
+            <marker date="1562095680384" expanded="true" signature="75:649" ph="{...}" />
+            <marker date="1562095680384" expanded="true" signature="115:436" ph="{...}" />
+            <marker date="1562095680384" expanded="true" signature="248:292" ph="{...}" />
+            <marker date="1562095680384" expanded="true" signature="324:413" ph="{...}" />
+            <marker date="1562095680384" expanded="true" signature="484:643" ph="{...}" />
+            <marker date="1562095680384" expanded="true" signature="520:633" ph="{...}" />
           </folding>
         </state>
       </provider>

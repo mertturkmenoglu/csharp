@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E019_Exception/bin/Debug/E019_Exception.exe
+/home/mert/codes/csharp/csharp/E019_Exception/bin/Debug/E019_Exception.pdb
+/home/mert/codes/csharp/csharp/E019_Exception/obj/Debug/E019_Exception.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E019_Exception/obj/Debug/E019_Exception.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E019_Exception/obj/Debug/E019_Exception.exe
+/home/mert/codes/csharp/csharp/E019_Exception/obj/Debug/E019_Exception.pdb
