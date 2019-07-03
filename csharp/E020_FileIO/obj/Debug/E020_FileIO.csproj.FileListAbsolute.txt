@@ -1,0 +1,6 @@
+/home/mert/codes/csharp/csharp/E020_FileIO/bin/Debug/E020_FileIO.exe
+/home/mert/codes/csharp/csharp/E020_FileIO/bin/Debug/E020_FileIO.pdb
+/home/mert/codes/csharp/csharp/E020_FileIO/obj/Debug/E020_FileIO.csprojAssemblyReference.cache
+/home/mert/codes/csharp/csharp/E020_FileIO/obj/Debug/E020_FileIO.csproj.CoreCompileInputs.cache
+/home/mert/codes/csharp/csharp/E020_FileIO/obj/Debug/E020_FileIO.exe
+/home/mert/codes/csharp/csharp/E020_FileIO/obj/Debug/E020_FileIO.pdb

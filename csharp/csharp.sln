@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E018_String", "E018_String\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E019_Exception", "E019_Exception\E019_Exception.csproj", "{0954575D-4F7C-49A3-BBF5-E3654595D66B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E020_FileIO", "E020_FileIO\E020_FileIO.csproj", "{F54DF822-F1CB-4935-B3FD-548CA88BB12B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{0954575D-4F7C-49A3-BBF5-E3654595D66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0954575D-4F7C-49A3-BBF5-E3654595D66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0954575D-4F7C-49A3-BBF5-E3654595D66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54DF822-F1CB-4935-B3FD-548CA88BB12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54DF822-F1CB-4935-B3FD-548CA88BB12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54DF822-F1CB-4935-B3FD-548CA88BB12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54DF822-F1CB-4935-B3FD-548CA88BB12B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
